@@ -9,7 +9,7 @@ website:
 googlescholar: https://scholar.google.com/citations?user=FultZKAAAAAJ&hl=en&oi=ao
 github: 
 linkedin: 
-cv: 'JaneShinCV_6_26_23.pdf'
+cv: 'JaneShinCV_3_20_26.pdf'
 permalink: /people/:slug/
 ---
 <!-- Put your biography here -->
